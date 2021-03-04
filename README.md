@@ -1,2 +1,2 @@
 # My-Exprience-Of-Learning-ML
-How i learn ML algorithms based on my experience i created this repository
+How I learn ML algorithms based on my experience I created this repository
